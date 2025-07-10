@@ -277,7 +277,7 @@ def iFFT(v):
     """ Inverse of the Fast Fourier Transform.
     """
     n = len(v)
-    u = fft(v)
+    u = FFT(v)
     x = [i/n for i in u]  # u divided by n
     # Reverse the last n-1 elements
     y = x[1:]
