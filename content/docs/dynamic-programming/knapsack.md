@@ -10,7 +10,7 @@ toc: true
 katex: true
 ---
 
-Given $n$ items of weights $w_i$ and values $v_i$, for $i=0, 1, ..., n-1$ and a knapsack with a maximum weight capacity $C$, pack some items into the knapsack such that the total weight does not exceed $W$ and maximize the total value of the packed items. Assume that the weights, the values and the capacity are all integers.
+Given $n$ items of weights $w_i$ and values $v_i$, for $i=0, 1, ..., n-1$ and a knapsack with a maximum weight capacity $C$, pack some items into the knapsack such that the total weight does not exceed $C$ and maximize the total value of the packed items. Assume that the weights, the values and the capacity are all integers.
 
 The problem is a classic example of the **dynamic programming** approach. The key idea is to break down the problem into smaller subproblems and store the solutions to these subproblems to avoid recomputation.
 

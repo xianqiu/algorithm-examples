@@ -16,7 +16,7 @@ We use the knapsack problem as an example to illustrate the approach.
 
 ## Knapsack Problem
 
-Given $n$ items of weights $w_i$ and values $v_i$, for $i=0, 1, ..., n-1$ and a knapsack with a maximum weight capacity $C$, pack some items into the knapsack such that the total weight does not exceed $W$ and the total value of the packed items is maximized. 
+Given $n$ items of weights $w_i$ and values $v_i$, for $i=0, 1, ..., n-1$ and a knapsack with a maximum weight capacity $C$, pack some items into the knapsack such that the total weight does not exceed $C$ and the total value of the packed items is maximized. 
 
 ## Algorithm
 
