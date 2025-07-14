@@ -33,4 +33,4 @@ The URL is as below.
 
 ## Code
 
-The codes can be found in [algorithm-examples/codes](https://github.com/xianqiu/linear-programming/tree/main/codes).
+The algorithms are implemented in Python and can be found in [algorithm-examples/codes](https://github.com/xianqiu/linear-programming/tree/main/codes).
