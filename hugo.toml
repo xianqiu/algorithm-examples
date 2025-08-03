@@ -1,6 +1,7 @@
 baseURL = '/'
 languageCode = 'en-us'
 title = 'Algorithm Examples'
+enableGitInfo = true
 
 [module]
     [[module.imports]]
