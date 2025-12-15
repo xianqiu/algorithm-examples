@@ -43,4 +43,4 @@ enableGitInfo = true
 
 [services]
   [services.googleAnalytics]
-      id = ''
+      id = 'G-PL28FWEPB8'
