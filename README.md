@@ -6,8 +6,8 @@
 Here is a tutorial that illustrates the implementation of some basic algorithms. This may help you understand the idea behind them.
 
 The URL is as below.
-
-* https://algorithm-examples.netlify.app/
+* [main] https://algo.buypdf.cn/
+* [backup] https://algorithm-examples.netlify.app/
 
 ## Content
 
